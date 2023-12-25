@@ -121,3 +121,5 @@ RegisterNumber:  23010209
 
 
 ### RESULTS 
+
+By this we have verified the truth table of 4-bit up-counter using verilog.
